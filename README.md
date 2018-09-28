@@ -2,5 +2,6 @@
 Our repository of commonly used 3D models. Some are ours, others belong to their respective owners.
 
 ## Respository Contents
-* Prusa i3 Original
+* Prusa i3 Original Single Plate
+* Prusa i3 Original Box Frame
 * Dagger
