@@ -7,3 +7,4 @@ Our repository of commonly used 3D models. Some are ours, others belong to their
 * Dagger
 * Coat Hook
 * Dipole Antenna
+* E3Dv6 Extruder
